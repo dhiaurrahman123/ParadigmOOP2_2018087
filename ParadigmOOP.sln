@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmOOP", "ParadigmOOP.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polymorphism", "..\Polymorphism\Polymorphism.vcxproj", "{460A1667-EE93-4851-B5BA-03191665D4AA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOverriding", "..\noOverriding\noOverriding.vcxproj", "{D82367E1-BC9A-47C2-8131-8B5BAD4C4E0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{460A1667-EE93-4851-B5BA-03191665D4AA}.Release|x64.Build.0 = Release|x64
 		{460A1667-EE93-4851-B5BA-03191665D4AA}.Release|x86.ActiveCfg = Release|Win32
 		{460A1667-EE93-4851-B5BA-03191665D4AA}.Release|x86.Build.0 = Release|Win32
+		{D82367E1-BC9A-47C2-8131-8B5BAD4C4E0E}.Debug|x64.ActiveCfg = Debug|x64
+		{D82367E1-BC9A-47C2-8131-8B5BAD4C4E0E}.Debug|x64.Build.0 = Debug|x64
+		{D82367E1-BC9A-47C2-8131-8B5BAD4C4E0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{D82367E1-BC9A-47C2-8131-8B5BAD4C4E0E}.Debug|x86.Build.0 = Debug|Win32
+		{D82367E1-BC9A-47C2-8131-8B5BAD4C4E0E}.Release|x64.ActiveCfg = Release|x64
+		{D82367E1-BC9A-47C2-8131-8B5BAD4C4E0E}.Release|x64.Build.0 = Release|x64
+		{D82367E1-BC9A-47C2-8131-8B5BAD4C4E0E}.Release|x86.ActiveCfg = Release|Win32
+		{D82367E1-BC9A-47C2-8131-8B5BAD4C4E0E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
